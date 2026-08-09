@@ -18,9 +18,9 @@
 
 ### Research
 
-I've been at DAG Observatory since September 2025, and in July 2026 I spent time at KUTTAM (Koç University) researching ferroptosis in glioma cells — work I'm now extending with AI/ML methods.
+I'm extending with AI/ML methods.
 
-My research side keeps circling back to the mind. I have a published paper adapting a Turkish version of a social media "sadfishing" survey and studying its psychosocial relationships, [*Turkish Adaptation of the Social Media Sadfishing Questionnaire in High School Students and Its Psychosocial Correlates](https://dergipark.org.tr/tr/pub/acmes/article/1896066), out in 2026 in Advances in Clinical Medicine and Evidence-based Science. I also have a second paper, *"The Relationship Between Excessive Mind Wandering and Emotional and Behavioral Traits in High School Students,"* currently under review at Current Psychology.
+But my research side keeps circling back to the mind. I have a published paper adapting a Turkish version of a social media "sadfishing" survey and studying its psychosocial relationships, [*Turkish Adaptation of the Social Media Sadfishing Questionnaire in High School Students and Its Psychosocial Correlates](https://dergipark.org.tr/tr/pub/acmes/article/1896066), out in 2026 in Advances in Clinical Medicine and Evidence-based Science. I also have a second paper, *"The Relationship Between Excessive Mind Wandering and Emotional and Behavioral Traits in High School Students,"* currently under review at Current Psychology.
 
 That thread — mental health, studied properly — is also why I started **The Mental Health Zone**. One is data, the other is conversation, but they're the same question.
 
