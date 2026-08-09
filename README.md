@@ -7,14 +7,13 @@ class Zeynep:
     def __init__(self):
         self.grade = 11
         self.school = "Thomas Jefferson School, St. Louis, MO"
-        self.roots = "Erzurum, Turkey 🇹🇷"
         self.obsession = "AI x neuroscience — brain cancer to psychology"
         self.podcast = "The Mental Health Zone (~3,000 monthly listeners 🎙️)"
-        self.also_plays = "violin 🎻 + alpine skiing ⛷️"
-        self.house = "Ravenclaw, obviously"
+        self.also_plays = "violin + alpine skiing"
+        self.house = "Slytherin, obviously"
 
     def currently_building(self):
-        return "AI that doesn't lie to doctors 🩺"
+        return "knee abnormality detection for the RSNA Kaggle comp"
 ```
 
 <br>
