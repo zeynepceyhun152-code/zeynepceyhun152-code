@@ -85,7 +85,7 @@ Colonoscopy polyp segmentation, custom architecture (residual blocks + SE attent
 </details>
 
 <details>
-<summary><b>🏠 Other</b></summary>
+<summary><b> Other</b></summary>
 <br>
 
 **highway1009 — Emlak Fırsat Analizi** — Predicts fair market value for Turkish real estate listings (`HistGradientBoostingRegressor`, `R² 0.75` on 179+ features), flags deal / overpriced / fair. 🥇 1st place, AI Spark Hackathon. Built with İpek Çakıcı.
@@ -131,8 +131,8 @@ A podcast tackling mental health stigma, started to open up a conversation that 
 <div align="center">
 
 <a href="https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4"><img src="https://img.shields.io/badge/-Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zeynep-ceyhun-698715415/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:zceyhun28@tjs.org"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
