@@ -1,6 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E6E,100:7EC8F5&height=200&section=header&text=Hey,%20I'm%20Zeynep&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/> <a href="https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+x+neuroscience+researcher;brain+cancer+%E2%86%92+psychology+%E2%86%92+code;3x+international+hackathon+finalist;host+of+The+Mental+Health+Zone+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" /> </a> <img src="https://komarev.com/ghpvc/?username=zeynepceyhun152-code&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="profile views"/> </div> <br>
 
-## 🧬 the tl;dr
 
 ```python
 class Zeynep:
@@ -30,7 +29,7 @@ class Zeynep:
 
 <br>
 
-## 🔬 research
+##  research
 
 I'm extending glioma/ferroptosis lab work into AI/ML methods — but honestly, my research brain keeps circling back to the mind, not the tumor.
 
@@ -42,7 +41,7 @@ I'm extending glioma/ferroptosis lab work into AI/ML methods — but honestly, m
 
 <br>
 
-## 💡 projects
+##  projects
 
 <details open>
 <summary><b>🩺 Health AI / Diagnostics</b></summary>
@@ -125,7 +124,7 @@ A podcast tackling mental health stigma, started to open up a conversation that 
 
 <br><br>
 
-## 📫 connect
+##  connect
 
 <div align="center">
 
