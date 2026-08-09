@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Zeynep 👋</h1>
-<h3 align="center">Building AI for healthcare — from brain cancer to psychology</h3>
+<h3 align="center">I like building AI for healthcare</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeynepceyhun152-code&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
