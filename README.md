@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zeynep 👋</h1>
+<h1 align="center">Hey, I'm Zeynep :)</h1>
 <h3 align="center">I like building AI for healthcare</h3>
 
 <p align="center">
