@@ -1,98 +1,151 @@
-<h1 align="center">Hey, I'm Zeynep :)</h1>
-<h3 align="center">I like building AI for healthcare</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeynepceyhun152-code&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Zeynep&fontSize=45&fontColor=fff&animation=fadeIn&desc=building%20AI%20for%20healthcare%20🧠💊&descAlignY=60&descSize=18" width="100%"/>
 
----
+<a href="https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+x+neuroscience+researcher;brain+cancer+%E2%86%92+psychology+%E2%86%92+code;3x+international+hackathon+finalist;host+of+The+Mental+Health+Zone+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-### About Me
+<img src="https://komarev.com/ghpvc/?username=zeynepceyhun152-code&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="profile views"/>
 
-- 🎓 Grade 11 student at Thomas Jefferson School, St. Louis, MO 
-- 🧬 Focused on AI x neuroscience — from brain cancer to psychology
-- 🎙️ Host of **The Mental Health Zone**, a podcast with ~3,000 monthly listeners
+</div>
 
+<br>
 
----
+## 🧬 the tl;dr
 
-### Research
+```python
+class Zeynep:
+    def __init__(self):
+        self.grade = 11
+        self.school = "Thomas Jefferson School, St. Louis, MO"
+        self.roots = "Erzurum, Turkey 🇹🇷"
+        self.obsession = "AI x neuroscience — brain cancer to psychology"
+        self.podcast = "The Mental Health Zone (~3,000 monthly listeners 🎙️)"
+        self.also_plays = "violin 🎻 + alpine skiing ⛷️"
+        self.house = "Ravenclaw, obviously"
 
-I'm extending with AI/ML methods.
+    def currently_building(self):
+        return "AI that doesn't lie to doctors 🩺"
+```
 
-But my research side keeps circling back to the mind. I have a published paper adapting a Turkish version of a social media "sadfishing" survey and studying its psychosocial relationships, [*Turkish Adaptation of the Social Media Sadfishing Questionnaire in High School Students and Its Psychosocial Correlates](https://dergipark.org.tr/tr/pub/acmes/article/1896066), out in 2026 in Advances in Clinical Medicine and Evidence-based Science. I also have a second paper, *"The Relationship Between Excessive Mind Wandering and Emotional and Behavioral Traits in High School Students,"* currently under review at Current Psychology.
+<br>
 
-That thread — mental health, studied properly — is also why I started **The Mental Health Zone**. One is data, the other is conversation, but they're the same question.
+## 🏆 hackathon scoreboard
 
----
+<div align="center">
 
-### Competitions & Hackathon Wins
+| 🥇 | 🥇 | 🥉 | 🥉 | 🔟 | 🔝 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **AI Spark Hackathon**<br>1st, High School Cat.<br>`highway1009` | **Sunny Hacks**<br>1st place<br>`Cabinet Clear` | **USAII Global AI**<br>3rd / 3,200+ teams<br>`Cabinet Clear` | **AI in Health**<br>3rd internationally<br>`CardioLens` + `Polyp Seg.` | **Biotechnology Innovation**<br>Top 10 internationally<br>`AXOBOT` | **Moonshot Hackathon**<br>Top 100 finalist<br>`LeakCheck` |
 
-- 🥇 **1st place, High School Category** — AI Spark Hackathon (*highway1009*)
-- 🥇 **1st place** — Sunny Hacks (*Cabinet Clear*)
-- 🥉 **3rd of 3,200+ teams** — USAII Global AI Hackathon (*Cabinet Clear*)
-- 🥉 **3rd internationally** — 2025, AI in Health (*CardioLens*, *Polyp Segmentation*)
-- 🔟 **Top 10 internationally** — 2024, Biotechnology Innovation (*AXOBOT*)
-- 🔝 **Top 100 finalist** — Moonshot Hackathon (*LeakCheck*)
+</div>
 
----
+<br>
 
-###  Featured Projects
+## 🔬 research
 
-### Health AI / Diagnostics
+I'm extending glioma/ferroptosis lab work into AI/ML methods — but honestly, my research brain keeps circling back to the mind, not the tumor.
 
-**[SepsisWatch](https://github.com/zeynepceyhun152-code/SepsisWatch-)** — Predicts sepsis onset 6 hours early using only pre-treatment ICU data, achieving AUC 0.9385 on 39,910 PhysioNet patients vs. Epic's real-world 0.63 — the gap comes from eliminating temporal leakage that inflates most clinical AI benchmarks. XGBoost + SHAP, built for the Creator Colosseum Startup Competition 2026.
+📄 **["Turkish Adaptation of the Social Media Sadfishing Questionnaire in High School Students and Its Psychosocial Correlates"](https://dergipark.org.tr/tr/pub/acmes/article/1896066)** — *Advances in Clinical Medicine and Evidence-based Science*, 2026
 
-**[CardioLens](https://github.com/zeynepceyhun152-code/cardiolens)** — Cardiomegaly detection from chest X-rays (U-Net++ segmentation + EfficientNet-B4 classifier), AUROC 0.8756, Grad-CAM explainability. International Finalist, AI in Health.
+📄 **"The Relationship Between Excessive Mind Wandering and Emotional and Behavioral Traits in High School Students"** — under review, *Current Psychology*
 
-**[Polyp Segmentation (ResUNet++)](https://github.com/zeynepceyhun152-code/polyp-segmentation)** — Colonoscopy polyp segmentation with a custom ResUNet++ (residual blocks + SE attention + ASPP), Dice 0.8539. International Finalist, AI in Health, among 500+ teams.
+> Mental health, studied properly on paper — and talked about properly on the mic. Same question, two formats. That's also why **The Mental Health Zone** exists.
 
-**[SafeDose](#)** — Teen medication safety explainer built on OpenFDA + Claude API, shipped in a 6-hour hackathon sprint.
+<br>
 
-**Lab Report Pipeline** — Multi-modal pipeline combining OCR, Claude API extraction, and a deterministic rules engine for processing medical lab reports.
+## 💡 projects
 
-**Clinical ML — Psychiatric Hurdle Model** — Two-stage hurdle model on ~789 patients across 700+ variables (MICE imputation, XGBoost, SHAP), built for publication.
+<details open>
+<summary><b>🩺 Health AI / Diagnostics</b></summary>
+<br>
 
-### AI Trust & Evaluation
+**[SepsisWatch](https://github.com/zeynepceyhun152-code/SepsisWatch-)**
+Predicts sepsis 6 hours before onset using *only* pre-treatment ICU data — `AUC 0.9385` on 39,910 PhysioNet patients vs. Epic's real-world `0.63`. The gap is temporal leakage most clinical AI benchmarks quietly ignore. `XGBoost` `SHAP` — built for Creator Colosseum Startup Competition 2026.
 
-**[LeakCheck](https://github.com/zeynepceyhun152-code/leakcheck)** — Audits clinical AI models for temporal leakage (features only recorded because a clinician already suspected the diagnosis). Rule-based detection engine, recomputes honest vs. naive AUC on a synthetic sepsis case study. Top 100 finalist, Moonshot Hackathon.
+**CardioLens**
+Cardiomegaly detection from chest X-rays. `U-Net++` segmentation → `EfficientNet-B4` classifier → `Grad-CAM` explainability. `AUROC 0.8756`. International Finalist, AI in Health.
 
-**[StudyReels](https://studyreels-orpin.vercel.app)** — Turns class notes into short-form study reels via Claude, with a deterministic Trust Score engine that catches AI hallucinations before you study something wrong, plus a real logistic-regression recommender for the feed.
+**[Polyp Segmentation (ResUNet++)](https://github.com/zeynepceyhun152-code/polyp-segmentation)**
+Colonoscopy polyp segmentation, custom architecture (residual blocks + SE attention + ASPP). `Dice 0.8539`. International Finalist among 500+ teams.
 
-### EdTech
+**SafeDose** — Teen medication safety explainer, `OpenFDA` + `Claude API`, shipped in a 6-hour sprint.
 
-**[MindLearn](https://github.com/zeynepceyhun152-code/mindlearn)** — Turns daily student check-ins (sliders + journal entries) into learning-state scores via rule-based NLP and deterministic scoring, then detects patterns like overload or avoidance loops and generates adaptive study recommendations. AI is used only to explain results, never to score them. Built for West Hacks.
+**Lab Report Pipeline** — OCR + Claude API extraction + deterministic rules engine for medical lab reports.
 
-### Other
+**Psychiatric Hurdle Model** — Two-stage hurdle model, 789 patients × 700+ variables, `MICE` `XGBoost` `SHAP`, publication-track.
 
-**[highway1009 — Emlak Fırsat Analizi](https://github.com/zeynepceyhun152-code/home-deal-analyzer)** — Streamlit app that predicts fair market value for Turkish real estate listings (HistGradientBoostingRegressor, R²=0.75 on 179+ features) and flags listings as a deal, overpriced, or fair. 🥇 1st place, High School Category, AI Spark Hackathon. Built with İpek Çakıcı.
+</details>
 
-**[AXOBOT](#)** — Biotech innovation project, Top 10 internationally.
+<details>
+<summary><b>🔍 AI Trust & Evaluation</b></summary>
+<br>
 
----
+**LeakCheck** — Catches clinical AI models cheating on their own benchmarks by auditing for temporal leakage. Rule-based engine, honest-vs-naive AUC comparison. Top 100 finalist, Moonshot Hackathon.
 
-###  Tech Stack
+**StudyReels** — Class notes → short-form study reels via Claude, guarded by a deterministic Trust Score engine that flags AI hallucinations before they become your study notes. Real logistic-regression recommender under the hood.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=flat)
-![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+</details>
 
----
+<details>
+<summary><b>📚 EdTech</b></summary>
+<br>
 
-### 🎙️ The Mental Health Zone
+**MindLearn** — Daily check-ins (sliders + journal) → learning-state scores via rule-based NLP, detects patterns like overload or avoidance loops, generates adaptive study recs. AI explains, never scores. Built for West Hacks.
+
+</details>
+
+<details>
+<summary><b>🏠 Other</b></summary>
+<br>
+
+**highway1009 — Emlak Fırsat Analizi** — Predicts fair market value for Turkish real estate listings (`HistGradientBoostingRegressor`, `R² 0.75` on 179+ features), flags deal / overpriced / fair. 🥇 1st place, AI Spark Hackathon. Built with İpek Çakıcı.
+
+**AXOBOT** — Biotech innovation project. Top 10 internationally.
+
+</details>
+
+<br>
+
+## 🛠️ tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,react,nextjs,ts,arduino&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-1F77B4?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zeynepceyhun152-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepceyhun152-code&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br>
+
+## 🎙️ The Mental Health Zone
 
 A podcast tackling mental health stigma, started to open up a conversation that isn't easy to have back home.
-🔗 [Listen here](#https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4
 
----
+<a href="https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4">
+  <img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-### 📫 Connect
+<br><br>
 
-[![Podcast](https://img.shields.io/badge/-Podcast-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-ceyhun-698715415/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zceyhun28@tjs.org)
+## 📫 connect
+
+<div align="center">
+
+<a href="https://open.spotify.com/show/6nE7zMTQKaJQdRrWRktqjY?si=2d8ddc8a16564af4"><img src="https://img.shields.io/badge/-Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
