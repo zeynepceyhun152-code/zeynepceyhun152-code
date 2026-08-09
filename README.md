@@ -39,7 +39,7 @@ That thread — mental health, studied properly — is also why I started **The 
 
 ###  Featured Projects
 
-#### Health AI / Diagnostics
+### Health AI / Diagnostics
 
 **[SepsisWatch](https://github.com/zeynepceyhun152-code/SepsisWatch-)** — Predicts sepsis onset 6 hours early using only pre-treatment ICU data, achieving AUC 0.9385 on 39,910 PhysioNet patients vs. Epic's real-world 0.63 — the gap comes from eliminating temporal leakage that inflates most clinical AI benchmarks. XGBoost + SHAP, built for the Creator Colosseum Startup Competition 2026.
 
@@ -53,17 +53,17 @@ That thread — mental health, studied properly — is also why I started **The 
 
 **Clinical ML — Psychiatric Hurdle Model** — Two-stage hurdle model on ~789 patients across 700+ variables (MICE imputation, XGBoost, SHAP), built for publication.
 
-#### AI Trust & Evaluation
+### AI Trust & Evaluation
 
 **[LeakCheck](https://github.com/zeynepceyhun152-code/leakcheck)** — Audits clinical AI models for temporal leakage (features only recorded because a clinician already suspected the diagnosis). Rule-based detection engine, recomputes honest vs. naive AUC on a synthetic sepsis case study. Top 100 finalist, Moonshot Hackathon.
 
 **[StudyReels](https://studyreels-orpin.vercel.app)** — Turns class notes into short-form study reels via Claude, with a deterministic Trust Score engine that catches AI hallucinations before you study something wrong, plus a real logistic-regression recommender for the feed.
 
-#### EdTech
+### EdTech
 
 **[MindLearn](https://github.com/zeynepceyhun152-code/mindlearn)** — Turns daily student check-ins (sliders + journal entries) into learning-state scores via rule-based NLP and deterministic scoring, then detects patterns like overload or avoidance loops and generates adaptive study recommendations. AI is used only to explain results, never to score them. Built for West Hacks.
 
-#### Other
+### Other
 
 **[highway1009 — Emlak Fırsat Analizi](https://github.com/zeynepceyhun152-code/home-deal-analyzer)** — Streamlit app that predicts fair market value for Turkish real estate listings (HistGradientBoostingRegressor, R²=0.75 on 179+ features) and flags listings as a deal, overpriced, or fair. 🥇 1st place, High School Category, AI Spark Hackathon. Built with İpek Çakıcı.
 
